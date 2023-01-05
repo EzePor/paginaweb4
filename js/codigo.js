@@ -10,3 +10,4 @@ function fondo(){
     recuerdos.style.background="blue";
     recuerdos.style.fontSize="45px";
 }
+
